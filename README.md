@@ -36,3 +36,12 @@ To rapidly get Helm up and running, start with the [Quick Start Guide](https://h
 
 See the [installation guide](https://helm.sh/docs/intro/install/) for more options,
 including installing pre-releases.
+
+
+## Docs
+
+Get started with the [Quick Start guide](https://helm.sh/docs/intro/quickstart/) or plunge into the [complete documentation](https://helm.sh/docs)
+
+## Roadmap
+
+The [Helm roadmap uses GitHub milestones](https://github.com/helm/helm/milestones) to track the progress of the project.
