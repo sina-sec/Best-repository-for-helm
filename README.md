@@ -7,3 +7,11 @@
 Helm is the best way to find, share, and use software built for Kubernetes.
 
 Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources.
+
+Use Helm to:
+
+- Find and use [popular software packaged as Helm Charts](https://artifacthub.io/packages/search?kind=0) to run in Kubernetes
+- Share your own applications as Helm Charts
+- Create reproducible builds of your Kubernetes applications
+- Intelligently manage your Kubernetes manifest files
+- Manage releases of Helm packages
