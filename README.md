@@ -51,7 +51,8 @@ The [Helm roadmap uses GitHub milestones](https://github.com/helm/helm/milestone
 ### Contain : 
 #### 1-  RabbitMQ  ![RabbitMQ_logo svg](https://user-images.githubusercontent.com/62883434/210129462-0d8a8a46-b972-401b-8b17-1da6890e7e22.png)
 #### 2-  Redis     ![Logo-redis svg](https://user-images.githubusercontent.com/62883434/210199882-44fdd88f-881f-4fd4-bc3e-334753eaa54b.png)
-#### 3-  Sentry    ![sentry2](https://user-images.githubusercontent.com/62883434/214224939-14174dd1-d996-4292-a438-b7ddbadce720.png)
+#### 3-  Sentry    ![sentry2](https://user-images.githubusercontent.com/62883434/214225093-ffe8ca0a-57ad-4a71-8b77-8341545000c8.png)
+
 
 
 
