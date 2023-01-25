@@ -53,6 +53,9 @@ The [Helm roadmap uses GitHub milestones](https://github.com/helm/helm/milestone
 #### 2-  Redis     ![Logo-redis svg](https://user-images.githubusercontent.com/62883434/210199882-44fdd88f-881f-4fd4-bc3e-334753eaa54b.png)
 #### 3-  Sentry    ![sentry2](https://user-images.githubusercontent.com/62883434/214225093-ffe8ca0a-57ad-4a71-8b77-8341545000c8.png)
 #### 4-  Cassandra ![cassandra](https://user-images.githubusercontent.com/62883434/214225713-e46aa7b1-2cc7-4c28-b266-b067f6b0b796.png)
+#### 5-  GitLab    ![ggggg](https://user-images.githubusercontent.com/62883434/214489430-ab0012c6-fe84-4b03-b990-27fcf3cfd56e.png)
+
+
 
 
 
