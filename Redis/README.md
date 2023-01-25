@@ -49,7 +49,7 @@ The main features of each chart are the following:
 ## Installing the Chart
 
 To install the chart with the release name `my-release`:
-
+you can change `my-release` to any specific name for your project
 ```console
 $ helm repo add my-repo https://charts.bitnami.com/bitnami
 $ helm install my-release my-repo/redis
