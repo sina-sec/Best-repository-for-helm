@@ -1,6 +1,10 @@
 <!--- app-name: RabbitMQ -->
 
 # RabbitMQ packaged by Bitnami HELM
+[![CircleCI](https://circleci.com/gh/RedisTimeSeries/prometheus-redistimeseries-adapter/tree/master.svg?style=svg) ](https://circleci.com/gh/RedisTimeSeries/prometheus-redistimeseries-adapter/tree/master)![68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f656c6b2d646f636b65722f62616467652f3f76657273696f6e3d6c6174657374](https://user-images.githubusercontent.com/62883434/214496397-828e853c-512e-405b-b678-4989a36971c7.svg) [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/bitnami)](https://artifacthub.io/packages/search?repo=bitnami)
+
+![53452435235432](https://user-images.githubusercontent.com/62883434/215406484-d36c55d4-568b-4b7e-9cf3-beed2d9b528a.png)
+
 
 RabbitMQ is an open source general-purpose message broker that is designed for consistent, highly-available messaging scenarios (both synchronous and asynchronous).
 
