@@ -5,3 +5,13 @@
 ![68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f333133312f6261646765](https://user-images.githubusercontent.com/62883434/212608216-8b2c5e08-4ae6-496a-8d73-dfcb66ea5149.svg) [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/bitnami)](https://artifacthub.io/packages/search?repo=bitnami)
 
 ![sentry1](https://user-images.githubusercontent.com/62883434/216895869-4b72782c-5f86-4358-be26-53f546ab4213.png)
+
+## Install 
+
+#### First, you should add the repository 
+
+
+```
+helm repo add sentry https://sentry-kubernetes.github.io/charts
+```
+### After that, you can install sentry with default values or use specific configuration with values ( You can use the values set in this repository, the settings in this repository are standard )
