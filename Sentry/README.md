@@ -15,7 +15,19 @@
 helm repo add sentry https://sentry-kubernetes.github.io/charts
 ```
 ### After that, you can install sentry with default values or use specific configuration with values ( You can use the values set in this repository, the settings in this repository are standard )
+To use the values set in this repository need to change some parameters, For example, you should change an email address and password, please check the Values used.
 
+```
+mail:
+  backend: smtp
+  from: "YOUR-EMAIL@gmail.com"
+  host: "smtp.gmail.com"
+  password: "PASSWORD-YOUR-EMAIL"
+  port: 587
+  useSsl: false
+  useTls: true
+  username: "YOUR-EMAIL@gmail.com"
+```
 
 ## Without overrides
 
